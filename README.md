@@ -1,4 +1,4 @@
-#Task 1: Write a GitHub intro
+# Task 1: Write a GitHub intro
 
 _这一部分的目标是让你在 GitHub 上创建一个新仓库（repository）并写一个自我介绍文件._
 
