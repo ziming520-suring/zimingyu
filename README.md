@@ -25,3 +25,6 @@ _例如：add first draft of github introduction_
 
 回到你的 GitHub 主页
 你会看到刚刚提交的 README 文件，GitHub 会自动显示它作为欢迎页面。
+
+_本人链接:_
+https://www.notion.so/26f1fde0e12480eea41de3caf658fa9d?v=26f1fde0e12481f08031000cda3215c5
